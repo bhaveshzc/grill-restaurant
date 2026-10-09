@@ -9,7 +9,7 @@
 
 A premium, fully–responsive restaurant landing page with cinematic transitions, smooth scrolling, and elegant design.
 
-**Developed by [SiteCaptain](https://sitecaptain.gt.tc/?i=2)**
+**Developed by [SiteCaptain](https://sitecaptain.gt.tc/?i=2)** [Biztxcle](https://sitecaptain.gt.tc/?i=2)**
 
 ---
 
